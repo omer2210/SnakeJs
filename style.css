@@ -1,0 +1,18 @@
+body {
+    background-color: green;
+}
+
+canvas {
+    display: block;
+    background-color: white;
+    z-index: 1;
+    margin: 50px auto;
+    grid: 0.1rem;
+}
+
+#score-board {
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
